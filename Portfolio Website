@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>My Portfolio</title>
+            <link rel="stylesheet" type="text/css" href="customized_styles.css">       
+        </head>
+        <body>
+
+            <header>
+                <h1>Lewis Maingi</h1>
+            </header>
+
+            <section class="introduction">
+                <h2>Introduction</h2>
+                <p>Hello, I'm Lewis. I'm a passionate in Tech with expertise in HTML, CSS, and different programing language.</p>
+            </section>
+
+            <section class="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Dart Programming</li>
+                    <li>Python Programming</li>
+                    <li>Database Desing</li>
+                </ul>
+            </section>
+
+            <footer class="contact">
+                <h2>Contact Information</h2>
+                <p>Email: lwsmaingi@gmail.com</p>
+                <p>Social Media: <a href="http://www.twitter.com/@kayder017">Twitter</a>, <a href="https://www.linkedin.com/in/lewis-maingi-567037249/">LinkedIn</a>, <a href="https://github.com/McKay017/">GitHub</a></p>
+            </footer>
+
+        </body>
+        </html>
